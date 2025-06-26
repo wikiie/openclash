@@ -1,2 +1,10 @@
 ##- SRC-IP-CIDR,192.168.1.201/32 #匹配数据发起IP
 ##- DOMAIN,google.com #匹配域名
+
+DOMAIN,gate6.rola.info
+DOMAIN,na.proxys5.net
+DOMAIN,as.proxys5.net
+
+SRC-IP-CIDR,43.159.20.214/32
+SRC-IP-CIDR,111.91.2.228/32
+SRC-IP-CIDR,113.10.160.107/32
