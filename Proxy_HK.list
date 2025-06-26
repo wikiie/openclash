@@ -1,6 +1,7 @@
 ##- SRC-IP-CIDR,192.168.1.201/32 #匹配数据发起IP
 ##- DOMAIN,google.com #匹配域名
 
+
 DOMAIN,gate-hk.kookeey.info
 DOMAIN,gate6.rola.info
 DOMAIN,na.proxys5.net
