@@ -1,2 +1,11 @@
 ##- SRC-IP-CIDR,192.168.1.201/32 #匹配数据发起IP
 ##- DOMAIN,google.com #匹配域名
+
+DOMAIN,gate-us.royadata.io
+DOMAIN,us.ipwo.net
+DOMAIN,testbalternate-proxy.onesproxy.vip
+DOMAIN,vcc-pay.com
+
+SRC-IP-CIDR,192.81.135.54/32
+SRC-IP-CIDR,104.160.179.152/32
+SRC-IP-CIDR,23.133.52.3/32
